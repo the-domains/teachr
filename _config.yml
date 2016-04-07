@@ -1,0 +1,28 @@
+name: teachr
+favicon: null
+layout_spectrum: 0.07458521565422416
+typography_spectrum: 0.9577683338429779
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4995121341198683
+  lightness: 0.45978592871688306
+  saturation: 0.9317423768807203
+  rhythmicContrast: 0.2576567840296775
+purpose: []
