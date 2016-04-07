@@ -1,6 +1,6 @@
 name: teachr
 favicon: null
-layout_spectrum: 0.69252
+layout_spectrum: 0.36316
 typography_spectrum: 0.46971
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000e13'
-    - '#c47044'
-    - '#f7f9ff'
-    - '#366882'
-    - '#78ceec'
+    - '#dadfe5'
+    - '#a6b6cd'
+    - '#5f574c'
+    - '#412b12'
+    - '#e4bb79'
   brandStrength: 0.5
   lightness: 0.75
   saturation: 0.8125
