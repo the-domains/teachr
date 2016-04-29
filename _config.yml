@@ -1,40 +1,40 @@
-name: teachr
 favicon: null
-layout_spectrum: 0.80718
-typography_spectrum: 0.87662
+name: teachr
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+purpose: []
 color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 0.9404255
   brandColors:
     - '#dadfe5'
     - '#a6b6cd'
     - '#5f574c'
     - '#412b12'
     - '#e4bb79'
-  brandStrength: 1
-  lightness: 0.625
-  saturation: 0.25
-  rhythmicContrast: 0.75
-purpose: []
+  rhythmicContrast: 0.3404255
+typography_spectrum: 0.87662
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.80718
+analytics:
+  twitter: null
+  google: null
+  facebook: null
